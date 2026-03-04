@@ -1,3 +1,4 @@
+# Unit tests for Quick-Calc core arithmetic logic
 import pytest
 from quick_calc.calculator import add, subtract, multiply, divide, clear
 
