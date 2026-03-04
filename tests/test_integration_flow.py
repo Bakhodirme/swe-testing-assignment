@@ -1,3 +1,4 @@
+# Integration tests for Quick-Calc user interaction flow
 from quick_calc.cli import process_input
 
 
